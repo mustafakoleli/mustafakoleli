@@ -15,6 +15,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+
 ### Other Technologies
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)

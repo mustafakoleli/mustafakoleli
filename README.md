@@ -47,8 +47,8 @@ I'm open to collaborations and discussions on exciting projects. Let's build som
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakoleli&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoleli&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊

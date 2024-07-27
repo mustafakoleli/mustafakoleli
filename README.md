@@ -31,10 +31,7 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakoleli&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoleli&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafakoleli&theme=radical)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=mustafakoleli.visitor-badge)
 
 ## 📫 How to Reach Me
 

@@ -18,13 +18,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ### Other Technologies
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-## 🚀 Projects and Contributions
-
-I love to work on exciting projects and contribute to open-source communities. Here are some highlights:
-
-- **[formevpn](https://github.com/username/formevpn)**: A VPN application using Flutter and GetX for state management.
-- **Custom Snackbar Component**: Created a custom Snackbar component in Flutter with info, warning, and error types.
 
 ## 🌱 Currently Learning
 
@@ -34,21 +29,24 @@ I'm always eager to learn new technologies and improve my skills. Currently, I'm
 - Deep diving into Elasticsearch
 - Exploring the capabilities of RabbitMQ
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakoleli&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoleli&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustafakoleli&theme=radical)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=mustafakoleli.visitor-badge)
+
 ## 📫 How to Reach Me
 
 Feel free to reach out to me on LinkedIn or send me an email:
 
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Email](mailto:email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mustafakoleli)
+- [Email](mailto:mustafakoleli@gmail.com)
 
 ## 🌍 Let's Connect
 
 I'm open to collaborations and discussions on exciting projects. Let's build something amazing together!
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafakoleli&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafakoleli&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Have a great day! 😊

@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 ### Other Technologies
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
+![ELK](https://img.shields.io/badge/-ELK-333333?style=flat&logo=elasticsearch)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 

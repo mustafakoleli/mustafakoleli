@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with expertise
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 ### Other Technologies
